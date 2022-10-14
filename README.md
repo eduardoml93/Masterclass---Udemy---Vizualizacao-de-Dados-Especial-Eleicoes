@@ -17,3 +17,6 @@ Programação é uma disciplina totalmente prática, de forma que, apenas a leit
 A demanda por programadores Python nunca esteve tão alta, afinal, Python é uma das linguagens mais utilizadas no mundo e requisito para se trabalhar com Ciência de Dados e Inteligência Artificial. Inclusive, podemos considerar Python como uma linguagem padrão para esta análise de dados, tendo em vista seu amplo ecossistema de bibliotecas, que englobam desde a manipulação e tratamento de dados até mesmo o deploy de modelos. Não podemos esquecer, neste sentido, que o Python é uma linguagem de aplicação geral.
 
 Por ser uma linguagem de programação versátil, simples de aprender e muito poderosa, Python possui recursos que, apesar de simples de se utilizar, tornam o aprendizado muito divertido.
+
+
+curso na UDEMY: https://www.udemy.com/course/masterclass-visualizacao-de-dados-especial-eleicoes/
